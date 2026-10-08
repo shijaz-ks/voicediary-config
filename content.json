@@ -1,0 +1,18 @@
+{
+  "schema": 1,
+  "reminders": [
+    { "title": "How was your day?", "body": "Take a minute to capture it in your own voice." },
+    { "title": "Your diary is listening", "body": "A few words now will mean a lot later." },
+    { "title": "Capture today before it fades", "body": "Tap to record your memory." },
+    { "title": "Time to reflect", "body": "What stood out today?" },
+    { "title": "A voice for today", "body": "Record a quick note about your day." },
+    { "title": "One good thing", "body": "What's one thing that went well today?" },
+    { "title": "Say it out loud", "body": "Some days are easier to talk through than to write." },
+    { "title": "Future you will thank you", "body": "A minute of your voice, kept forever." }
+  ],
+  "prompts": [
+    "What made you smile today?",
+    "Who did you talk to today?",
+    "What are you grateful for right now?"
+  ]
+}
